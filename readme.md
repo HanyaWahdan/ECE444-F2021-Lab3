@@ -2,7 +2,9 @@
 
 Hanya Wahdan
 
-This repo is a clone of https://github.com/nelaturuk/education_pathways.
+This repo is a clone of https://github.com/nelaturuk/education_pathways
+
+Feedback for Activity 5: After experimenting with Carte for a bit, one functional requirement I would like to change is improving how the search is done. The search  is very basically done through drop-down menus which can be very exhaustive if you're looking for a particular course. Also, in addition, in order to specify the term, you have to completely write "fall" or "winter" vs. "F" or "S" which might be more common for people so adds to the hassle. As for non-functional requirements, I think the user interface and the user experience requries a lot of improvement as I think it's not very usuable or convenient for the student to use. 
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
